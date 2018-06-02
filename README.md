@@ -8,7 +8,6 @@ Folder `etymo-10k`contains data extracted from 10000 research papers in the Etym
 | -------------| :-----|
 | `papers.json`     | Paper metadata  |
 | `similarity-based-graph-tfidf.gexf`    |  Content similarity network (TFIDF based) |
-| `similarity-based-graph-doc2vec.gexf` | Content similarity network (Doc2Vec based)    |
 | `keyword-graphs` | A sequence of keyword graphs at different timestamps |
 | `knowledge-graph.gexf` | A multigraph of keywords and paper ids |
 
