@@ -1,0 +1,452 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="directed" mode="static" name="compose( ,  )">
+    <meta>
+      <creator>NetworkX 2.0</creator>
+      <lastmodified>07/06/2018</lastmodified>
+    </meta>
+    <nodes>
+      <node id="trained cnn model" label="trained cnn model" />
+      <node id="acf detector" label="acf detector" />
+      <node id="pedestrian detection" label="pedestrian detection" />
+      <node id="acf proposals" label="acf proposals" />
+      <node id="cost function" label="cost function" />
+      <node id="cost functions" label="cost functions" />
+      <node id="bounding boxes" label="bounding boxes" />
+      <node id="aware constraints" label="aware constraints" />
+      <node id="aware navigation" label="aware navigation" />
+      <node id="walking person" label="walking person" />
+      <node id="computer vision" label="computer vision" />
+      <node id="personal space" label="personal space" />
+      <node id="inria dataset" label="inria dataset" />
+      <node id="ieee proc" label="ieee proc" />
+      <node id="performance evaluation" label="performance evaluation" />
+      <node id="proposed pd" label="proposed pd" />
+      <node id="false positives" label="false positives" />
+      <node id="onboard camera" label="onboard camera" />
+      <node id="goal position" label="goal position" />
+      <node id="starts moving" label="starts moving" />
+      <node id="crop disease diagnosis" label="crop disease diagnosis" />
+      <node id="wheat disease" label="wheat disease" />
+      <node id="wheat diseases" label="wheat diseases" />
+      <node id="deep models" label="deep models" />
+      <node id="conventional cnn architectures" label="conventional cnn architectures" />
+      <node id="deep model" label="deep model" />
+      <node id="aggregated function" label="aggregated function" />
+      <node id="aggregated functions" label="aggregated functions" />
+      <node id="mil framework" label="mil framework" />
+      <node id="pattern recognition" label="pattern recognition" />
+      <node id="spatial score maps" label="spatial score maps" />
+      <node id="bounding boxes approximation" label="bounding boxes approximation" />
+      <node id="leaf rust" label="leaf rust" />
+      <node id="feature maps outputted" label="feature maps outputted" />
+      <node id="recognition accuracy" label="recognition accuracy" />
+      <node id="raw image" label="raw image" />
+      <node id="proposed dmil" label="proposed dmil" />
+      <node id="powdery mildew" label="powdery mildew" />
+      <node id="leaf blotch" label="leaf blotch" />
+      <node id="indoor localization solutions" label="indoor localization solutions" />
+      <node id="location features" label="location features" />
+      <node id="fi access" label="fi access" />
+      <node id="sound level" label="sound level" />
+      <node id="location request" label="location request" />
+      <node id="indoor localization" label="indoor localization" />
+      <node id="level accuracy" label="level accuracy" />
+      <node id="cell tower" label="cell tower" />
+      <node id="similarity measure" label="similarity measure" />
+      <node id="level granularity" label="level granularity" />
+      <node id="country pm" label="country pm" />
+      <node id="level accurate" label="level accurate" />
+      <node id="cell" label="cell" />
+      <node id="data" label="data" />
+      <node id="fusion" label="fusion" />
+      <node id="framework" label="framework" />
+      <node id="mobile" label="mobile" />
+      <node id="location" label="location" />
+      <node id="network" label="network" />
+      <node id="labels" label="labels" />
+      <node id="blended courses" label="blended courses" />
+      <node id="grades" label="grades" />
+      <node id="students" label="students" />
+      <node id="discrete math" label="discrete math" />
+      <node id="communities" label="communities" />
+      <node id="similar" label="similar" />
+      <node id="graphs" label="graphs" />
+      <node id="paper" label="paper" />
+      <node id="research" label="research" />
+      <node id="found" label="found" />
+      <node id="moocs" label="moocs" />
+      <node id="results" label="results" />
+      <node id="truth model" label="truth model" />
+      <node id="secondary cue" label="secondary cue" />
+      <node id="supervised learning" label="supervised learning" />
+      <node id="theoretical analysis" label="theoretical analysis" />
+      <node id="ground truth" label="ground truth" />
+      <node id="yf −" label="yf −" />
+      <node id="using xg" label="using xg" />
+      <node id="learned" label="learned" />
+      <node id="error" label="error" />
+      <node id="height" label="height" />
+      <node id="supervised" label="supervised" />
+      <node id="primary" label="primary" />
+      <node id="ground" label="ground" />
+      <node id="xg ∼" label="xg ∼" />
+      <node id="pressure" label="pressure" />
+      <node id="estimate" label="estimate" />
+      <node id="beneficial" label="beneficial" />
+      <node id="ssl" label="ssl" />
+      <node id="sonar" label="sonar" />
+      <node id="properties" label="properties" />
+      <node id="scaling laws" label="scaling laws" />
+      <node id="networks" label="networks" />
+      <node id="total mass" label="total mass" />
+      <node id="successive generations" label="successive generations" />
+      <node id="electric resistance" label="electric resistance" />
+      <node id="spatial scales" label="spatial scales" />
+      <node id="equivalent values" label="equivalent values" />
+      <node id="elastic coefficient" label="elastic coefficient" />
+      <node id="systems" label="systems" />
+      <node id="tree" label="tree" />
+      <node id="formulation" label="formulation" />
+      <node id="structure" label="structure" />
+      <node id="fractal" label="fractal" />
+      <node id="ln α" label="ln α" />
+      <node id="study" label="study" />
+      <node id="length" label="length" />
+      <node id="elements" label="elements" />
+      <node id="branch" label="branch" />
+      <node id="observation" label="observation" />
+      <node id="noisy observations" label="noisy observations" />
+      <node id="step forecast" label="step forecast" />
+      <node id="prediction" label="prediction" />
+      <node id="ikeda equation" label="ikeda equation" />
+      <node id="lstm model" label="lstm model" />
+      <node id="deep learning" label="deep learning" />
+      <node id="probability distribution" label="probability distribution" />
+      <node id="regularized ce" label="regularized ce" />
+      <node id="noise level" label="noise level" />
+      <node id="time" label="time" />
+      <node id="noise" label="noise" />
+      <node id="std" label="std" />
+      <node id="glass" label="glass" />
+      <node id="lstm" label="lstm" />
+      <node id="delay" label="delay" />
+      <node id="discretization" label="discretization" />
+      <node id="mackey" label="mackey" />
+      <node id="neural networks" label="neural networks" />
+      <node id="correct answer" label="correct answer" />
+      <node id="wrong answers" label="wrong answers" />
+      <node id="questions" label="questions" />
+      <node id="model" label="model" />
+      <node id="lecun et al" label="lecun et al" />
+      <node id="human intelligence" label="human intelligence" />
+      <node id="previous shape" label="previous shape" />
+      <node id="iq tests" label="iq tests" />
+      <node id="pattern" label="pattern" />
+      <node id="multiple" label="multiple" />
+      <node id="images" label="images" />
+      <node id="input" label="input" />
+      <node id="performance" label="performance" />
+      <node id="arxiv" label="arxiv" />
+      <node id="dataset" label="dataset" />
+      <node id="correct" label="correct" />
+      <node id="mean squared error" label="mean squared error" />
+      <node id="prediction accuracy" label="prediction accuracy" />
+      <node id="rd performance" label="rd performance" />
+      <node id="experimental results" label="experimental results" />
+      <node id="deep learning approach" label="deep learning approach" />
+      <node id="mode cu partition" label="mode cu partition" />
+      <node id="scale database" label="scale database" />
+      <node id="efficiency video coding" label="efficiency video coding" />
+      <node id="hevc complexity" label="hevc complexity" />
+      <node id="computational time" label="computational time" />
+      <node id="convolutional layers" label="convolutional layers" />
+      <node id="complexity reduction" label="complexity reduction" />
+      <node id="force rdo search" label="force rdo search" />
+      <node id="cnn structure" label="cnn structure" />
+      <node id="cu splitting" label="cu splitting" />
+      <node id="mode hevc" label="mode hevc" />
+      <node id="temporal correlation" label="temporal correlation" />
+      <node id="structured output" label="structured output" />
+      <node id="cu depth" label="cu depth" />
+      <node id="training" label="training" />
+      <node id="validation" label="validation" />
+      <node id="models" label="models" />
+      <node id="emotion" label="emotion" />
+      <node id="emotions" label="emotions" />
+      <node id="gaussian distribution" label="gaussian distribution" />
+      <node id="level predictions" label="level predictions" />
+      <node id="normalized gaussians" label="normalized gaussians" />
+      <node id="multimodal interaction" label="multimodal interaction" />
+      <node id="validation set" label="validation set" />
+      <node id="obtained" label="obtained" />
+      <node id="intensity" label="intensity" />
+      <node id="distance" label="distance" />
+      <node id="using" label="using" />
+      <node id="affect" label="affect" />
+      <node id="heatmaps" label="heatmaps" />
+      <node id="baseline" label="baseline" />
+      <node id="negative" label="negative" />
+      <node id="diagonal mean tilts" label="diagonal mean tilts" />
+      <node id="induced tilt" label="induced tilt" />
+      <node id="detected houghlines" label="detected houghlines" />
+      <node id="binary edge map" label="binary edge map" />
+      <node id="dog edge maps" label="dog edge maps" />
+      <node id="line segments" label="line segments" />
+      <node id="rising mortar lines" label="rising mortar lines" />
+      <node id="finest scale" label="finest scale" />
+      <node id="multiple scales" label="multiple scales" />
+      <node id="retinal ganglion cells" label="retinal ganglion cells" />
+      <node id="cafe wall illusion" label="cafe wall illusion" />
+      <node id="line segments detected" label="line segments detected" />
+      <node id="foveal sample sets" label="foveal sample sets" />
+      <node id="detected tilt angles" label="detected tilt angles" />
+      <node id="mortar size" label="mortar size" />
+      <node id="café wall pattern" label="café wall pattern" />
+      <node id="twisted cord elements" label="twisted cord elements" />
+      <node id="hough analysis" label="hough analysis" />
+      <node id="tilt effect" label="tilt effect" />
+      <node id="psychophysical experiments" label="psychophysical experiments" />
+      <node id="objects" label="objects" />
+      <node id="categories" label="categories" />
+      <node id="residual blocks" label="residual blocks" />
+      <node id="et al" label="et al" />
+      <node id="volumetric" label="volumetric" />
+      <node id="classification" label="classification" />
+      <node id="widening" label="widening" />
+      <node id="accuracy" label="accuracy" />
+      <node id="ensembling" label="ensembling" />
+      <node id="cnns" label="cnns" />
+      <node id="features" label="features" />
+      <node id="modelnet" label="modelnet" />
+      <node id="performed" label="performed" />
+    </nodes>
+    <edges>
+      <edge id="0" source="trained cnn model" target="acf detector" />
+      <edge id="1" source="trained cnn model" target="computer vision" />
+      <edge id="2" source="acf detector" target="acf proposals" />
+      <edge id="3" source="pedestrian detection" target="acf detector" />
+      <edge id="4" source="pedestrian detection" target="aware navigation" />
+      <edge id="5" source="cost function" target="cost functions" />
+      <edge id="6" source="cost function" target="onboard camera" />
+      <edge id="7" source="bounding boxes" target="acf proposals" />
+      <edge id="8" source="bounding boxes" target="performance evaluation" />
+      <edge id="9" source="aware constraints" target="cost function" />
+      <edge id="10" source="aware navigation" target="aware constraints" />
+      <edge id="11" source="walking person" target="starts moving" />
+      <edge id="12" source="computer vision" target="personal space" />
+      <edge id="13" source="computer vision" target="pattern recognition" />
+      <edge id="14" source="computer vision" target="leaf blotch" />
+      <edge id="15" source="personal space" target="goal position" />
+      <edge id="16" source="inria dataset" target="bounding boxes" />
+      <edge id="17" source="performance evaluation" target="walking person" />
+      <edge id="18" source="proposed pd" target="inria dataset" />
+      <edge id="19" source="false positives" target="trained cnn model" />
+      <edge id="20" source="onboard camera" target="false positives" />
+      <edge id="21" source="goal position" target="proposed pd" />
+      <edge id="22" source="starts moving" target="ieee proc" />
+      <edge id="23" source="crop disease diagnosis" target="wheat disease" />
+      <edge id="24" source="crop disease diagnosis" target="wheat diseases" />
+      <edge id="25" source="wheat disease" target="crop disease diagnosis" />
+      <edge id="26" source="wheat disease" target="wheat diseases" />
+      <edge id="27" source="deep models" target="conventional cnn architectures" />
+      <edge id="28" source="deep model" target="deep models" />
+      <edge id="29" source="deep model" target="mil framework" />
+      <edge id="30" source="deep model" target="aggregated function" />
+      <edge id="31" source="aggregated function" target="aggregated functions" />
+      <edge id="32" source="aggregated function" target="feature maps outputted" />
+      <edge id="33" source="pattern recognition" target="input" />
+      <edge id="34" source="spatial score maps" target="raw image" />
+      <edge id="35" source="bounding boxes approximation" target="proposed dmil" />
+      <edge id="36" source="leaf rust" target="spatial score maps" />
+      <edge id="37" source="recognition accuracy" target="computer vision" />
+      <edge id="38" source="raw image" target="bounding boxes approximation" />
+      <edge id="39" source="proposed dmil" target="deep model" />
+      <edge id="40" source="powdery mildew" target="leaf rust" />
+      <edge id="41" source="leaf blotch" target="powdery mildew" />
+      <edge id="42" source="indoor localization solutions" target="indoor localization" />
+      <edge id="43" source="location features" target="cell tower" />
+      <edge id="44" source="fi access" target="sound level" />
+      <edge id="45" source="sound level" target="network" />
+      <edge id="46" source="location request" target="similarity measure" />
+      <edge id="47" source="indoor localization" target="framework" />
+      <edge id="48" source="cell tower" target="labels" />
+      <edge id="49" source="similarity measure" target="country pm" />
+      <edge id="50" source="level granularity" target="data" />
+      <edge id="51" source="country pm" target="level accurate" />
+      <edge id="52" source="level accurate" target="level accuracy" />
+      <edge id="53" source="cell" target="location" />
+      <edge id="54" source="data" target="indoor localization solutions" />
+      <edge id="55" source="data" target="ground truth" />
+      <edge id="56" source="fusion" target="mobile" />
+      <edge id="57" source="fusion" target="primary" />
+      <edge id="58" source="framework" target="fi access" />
+      <edge id="59" source="mobile" target="cell" />
+      <edge id="60" source="location" target="level granularity" />
+      <edge id="61" source="network" target="location features" />
+      <edge id="62" source="labels" target="location request" />
+      <edge id="63" source="blended courses" target="grades" />
+      <edge id="64" source="grades" target="blended courses" />
+      <edge id="65" source="students" target="blended courses" />
+      <edge id="66" source="students" target="grades" />
+      <edge id="67" source="students" target="paper" />
+      <edge id="68" source="discrete math" target="similar" />
+      <edge id="69" source="communities" target="students" />
+      <edge id="70" source="similar" target="graphs" />
+      <edge id="71" source="paper" target="research" />
+      <edge id="72" source="research" target="found" />
+      <edge id="73" source="found" target="moocs" />
+      <edge id="74" source="moocs" target="results" />
+      <edge id="75" source="results" target="discrete math" />
+      <edge id="76" source="results" target="et al" />
+      <edge id="77" source="truth model" target="error" />
+      <edge id="78" source="secondary cue" target="beneficial" />
+      <edge id="79" source="supervised learning" target="supervised" />
+      <edge id="80" source="theoretical analysis" target="secondary cue" />
+      <edge id="81" source="ground truth" target="ground" />
+      <edge id="82" source="ground truth" target="discretization" />
+      <edge id="83" source="using xg" target="yf −" />
+      <edge id="84" source="learned" target="estimate" />
+      <edge id="85" source="error" target="using xg" />
+      <edge id="86" source="height" target="learned" />
+      <edge id="87" source="supervised" target="fusion" />
+      <edge id="88" source="primary" target="ssl" />
+      <edge id="89" source="ground" target="xg ∼" />
+      <edge id="90" source="xg ∼" target="truth model" />
+      <edge id="91" source="pressure" target="sonar" />
+      <edge id="92" source="estimate" target="ground truth" />
+      <edge id="93" source="beneficial" target="pressure" />
+      <edge id="94" source="ssl" target="theoretical analysis" />
+      <edge id="95" source="sonar" target="height" />
+      <edge id="96" source="properties" target="scaling laws" />
+      <edge id="97" source="properties" target="electric resistance" />
+      <edge id="98" source="networks" target="network" />
+      <edge id="99" source="networks" target="systems" />
+      <edge id="100" source="total mass" target="elastic coefficient" />
+      <edge id="101" source="successive generations" target="elements" />
+      <edge id="102" source="electric resistance" target="study" />
+      <edge id="103" source="spatial scales" target="length" />
+      <edge id="104" source="equivalent values" target="total mass" />
+      <edge id="105" source="elastic coefficient" target="spatial scales" />
+      <edge id="106" source="systems" target="formulation" />
+      <edge id="107" source="tree" target="networks" />
+      <edge id="108" source="formulation" target="branch" />
+      <edge id="109" source="structure" target="fractal" />
+      <edge id="110" source="fractal" target="successive generations" />
+      <edge id="111" source="study" target="ln α" />
+      <edge id="112" source="length" target="properties" />
+      <edge id="113" source="elements" target="equivalent values" />
+      <edge id="114" source="branch" target="structure" />
+      <edge id="115" source="observation" target="noisy observations" />
+      <edge id="116" source="observation" target="lstm" />
+      <edge id="117" source="step forecast" target="prediction" />
+      <edge id="118" source="step forecast" target="data" />
+      <edge id="119" source="ikeda equation" target="noise" />
+      <edge id="120" source="lstm model" target="delay" />
+      <edge id="121" source="deep learning" target="observation" />
+      <edge id="122" source="deep learning" target="efficiency video coding" />
+      <edge id="123" source="probability distribution" target="lstm model" />
+      <edge id="124" source="regularized ce" target="std" />
+      <edge id="125" source="time" target="deep learning" />
+      <edge id="126" source="noise" target="step forecast" />
+      <edge id="127" source="std" target="noise level" />
+      <edge id="128" source="glass" target="ikeda equation" />
+      <edge id="129" source="lstm" target="probability distribution" />
+      <edge id="130" source="delay" target="mackey" />
+      <edge id="131" source="discretization" target="regularized ce" />
+      <edge id="132" source="mackey" target="glass" />
+      <edge id="133" source="neural networks" target="network" />
+      <edge id="134" source="neural networks" target="arxiv" />
+      <edge id="135" source="correct answer" target="wrong answers" />
+      <edge id="136" source="correct answer" target="questions" />
+      <edge id="137" source="correct answer" target="error" />
+      <edge id="138" source="questions" target="wrong answers" />
+      <edge id="139" source="model" target="network" />
+      <edge id="140" source="model" target="pattern recognition" />
+      <edge id="141" source="model" target="models" />
+      <edge id="142" source="model" target="negative" />
+      <edge id="143" source="model" target="objects" />
+      <edge id="144" source="lecun et al" target="correct answer" />
+      <edge id="145" source="human intelligence" target="pattern" />
+      <edge id="146" source="previous shape" target="dataset" />
+      <edge id="147" source="iq tests" target="human intelligence" />
+      <edge id="148" source="pattern" target="model" />
+      <edge id="149" source="multiple" target="images" />
+      <edge id="150" source="images" target="performance" />
+      <edge id="151" source="input" target="multiple" />
+      <edge id="152" source="performance" target="correct" />
+      <edge id="153" source="arxiv" target="iq tests" />
+      <edge id="154" source="dataset" target="lecun et al" />
+      <edge id="155" source="dataset" target="training" />
+      <edge id="156" source="correct" target="previous shape" />
+      <edge id="157" source="mean squared error" target="prediction accuracy" />
+      <edge id="158" source="rd performance" target="prediction accuracy" />
+      <edge id="159" source="experimental results" target="rd performance" />
+      <edge id="160" source="experimental results" target="complexity reduction" />
+      <edge id="161" source="deep learning approach" target="hevc complexity" />
+      <edge id="162" source="mode cu partition" target="computational time" />
+      <edge id="163" source="scale database" target="mode hevc" />
+      <edge id="164" source="efficiency video coding" target="deep learning approach" />
+      <edge id="165" source="hevc complexity" target="scale database" />
+      <edge id="166" source="computational time" target="structured output" />
+      <edge id="167" source="convolutional layers" target="mean squared error" />
+      <edge id="168" source="complexity reduction" target="cu depth" />
+      <edge id="169" source="force rdo search" target="cu splitting" />
+      <edge id="170" source="cnn structure" target="mode cu partition" />
+      <edge id="171" source="cu splitting" target="convolutional layers" />
+      <edge id="172" source="mode hevc" target="temporal correlation" />
+      <edge id="173" source="temporal correlation" target="experimental results" />
+      <edge id="174" source="structured output" target="force rdo search" />
+      <edge id="175" source="cu depth" target="cnn structure" />
+      <edge id="176" source="training" target="validation" />
+      <edge id="177" source="training" target="intensity" />
+      <edge id="178" source="training" target="cnns" />
+      <edge id="179" source="emotion" target="emotions" />
+      <edge id="180" source="emotion" target="heatmaps" />
+      <edge id="181" source="gaussian distribution" target="distance" />
+      <edge id="182" source="level predictions" target="validation set" />
+      <edge id="183" source="normalized gaussians" target="multimodal interaction" />
+      <edge id="184" source="validation set" target="normalized gaussians" />
+      <edge id="185" source="obtained" target="gaussian distribution" />
+      <edge id="186" source="intensity" target="obtained" />
+      <edge id="187" source="distance" target="level predictions" />
+      <edge id="188" source="using" target="emotion" />
+      <edge id="189" source="affect" target="using" />
+      <edge id="190" source="heatmaps" target="baseline" />
+      <edge id="191" source="baseline" target="model" />
+      <edge id="192" source="negative" target="dataset" />
+      <edge id="193" source="diagonal mean tilts" target="induced tilt" />
+      <edge id="194" source="diagonal mean tilts" target="detected houghlines" />
+      <edge id="195" source="diagonal mean tilts" target="detected tilt angles" />
+      <edge id="196" source="binary edge map" target="dog edge maps" />
+      <edge id="197" source="binary edge map" target="hough analysis" />
+      <edge id="198" source="line segments" target="rising mortar lines" />
+      <edge id="199" source="line segments" target="retinal ganglion cells" />
+      <edge id="200" source="line segments" target="foveal sample sets" />
+      <edge id="201" source="finest scale" target="multiple scales" />
+      <edge id="202" source="finest scale" target="twisted cord elements" />
+      <edge id="203" source="cafe wall illusion" target="line segments" />
+      <edge id="204" source="line segments detected" target="psychophysical experiments" />
+      <edge id="205" source="foveal sample sets" target="café wall pattern" />
+      <edge id="206" source="mortar size" target="finest scale" />
+      <edge id="207" source="café wall pattern" target="tilt effect" />
+      <edge id="208" source="twisted cord elements" target="binary edge map" />
+      <edge id="209" source="hough analysis" target="line segments detected" />
+      <edge id="210" source="tilt effect" target="mortar size" />
+      <edge id="211" source="psychophysical experiments" target="diagonal mean tilts" />
+      <edge id="212" source="objects" target="categories" />
+      <edge id="213" source="objects" target="modelnet" />
+      <edge id="214" source="residual blocks" target="performed" />
+      <edge id="215" source="et al" target="residual blocks" />
+      <edge id="216" source="volumetric" target="classification" />
+      <edge id="217" source="classification" target="model" />
+      <edge id="218" source="widening" target="accuracy" />
+      <edge id="219" source="accuracy" target="training" />
+      <edge id="220" source="ensembling" target="arxiv" />
+      <edge id="221" source="cnns" target="results" />
+      <edge id="222" source="features" target="ensembling" />
+      <edge id="223" source="modelnet" target="widening" />
+      <edge id="224" source="performed" target="features" />
+    </edges>
+  </graph>
+</gexf>

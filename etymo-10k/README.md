@@ -20,7 +20,7 @@ In details:
   - `authors`: list of author names
   - `category_name`
   - `doi`
-  - `downloaded_date`
+  - `downloaded_date`: downloaded date
   - `journal_name`: journal name
   - `link`: paper abstract URL
   - `overall_score`: overall importance score
@@ -69,4 +69,6 @@ In details:
 
 * `keywords.json`: extracted keywords from each paper.
   - `paper_id`: paper id
-  - `keywords`: list of keywords. Each keyword key has three values: RAKE score, frequency, and (Inverse Document Frequency) IDF score.
+  - `keywords`: a list of keywords. Each keyword key has three values: RAKE score, term frequency, and (Inverse Document Frequency) IDF score.
+
+* `keyword-graphs`: a folder that contains keyword graphs at different time stamps. For example `graph.2017.10.gexf` represents a keyword at year `2017` and month `10`. 
