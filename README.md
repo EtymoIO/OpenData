@@ -1,5 +1,5 @@
 # Etymo Open Dataset
 
-*  `etymo-10k`
+##  Dateset `etymo-10k`
 
-  Folder `etymo-10k`contains graph-related data extracted from 10000 research papers in the Etymo database.
+Folder `etymo-10k` contains data extracted from 10000 research papers in the Etymo database.

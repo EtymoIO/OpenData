@@ -1,7 +1,5 @@
 # etymo-10k
 
-Folder `etymo-10k`contains graph-related data extracted from 10000 research papers in the Etymo database.
-
 
 | Name         | Description  |
 | -------------| :-----|
@@ -71,4 +69,4 @@ In details:
   - `paper_id`: paper id
   - `keywords`: a list of keywords. Each keyword key has three values: RAKE score, term frequency, and (Inverse Document Frequency) IDF score.
 
-* `keyword-graphs`: a folder that contains keyword graphs at different time stamps. For example `graph.2017.10.gexf` represents a keyword at year `2017` and month `10`. 
+* `keyword-graphs`: a folder that contains keyword graphs at different time stamps. For example `graph.2017.10.gexf` represents a keyword at time stamp year `2017` and month `10`.
