@@ -21,6 +21,7 @@ In details:
   - `downloaded_date`: downloaded date
   - `journal_name`: journal name
   - `link`: paper abstract URL
+  - `pdf_link`: link to paper PDF
   - `overall_score`: overall importance score
   - `pagerank`: PageRank score
   - `reverse_pagerank`: reverse PageRank score
