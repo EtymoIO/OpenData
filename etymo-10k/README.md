@@ -6,8 +6,7 @@
 | `papers.json`     | Paper metadata  |
 | `keywords.json` | Automatically extracted keywords from paper full text |
 | `similarity-based-graph-tfidf.gexf`    |  Content similarity network (TFIDF based) |
-| `keyword-graphs` | A sequence of keyword graphs at different timestamps |
-| `knowledge-graph.gexf` | A multigraph of keywords and paper ids |
+| `keyword-graphs` | A group of keyword graphs at different timestamps |
 
 
 In details:
@@ -70,4 +69,4 @@ In details:
   - `paper_id`: paper id
   - `keywords`: a list of keywords. Each keyword key has three values: RAKE score, term frequency, and (Inverse Document Frequency) IDF score.
 
-* `keyword-graphs`: a folder that contains keyword graphs at different time stamps. For example `graph.2017.10.gexf` represents a keyword at time stamp year `2017` and month `10`.
+* `keyword-graphs`: nodes are keywords and related keywords are connected by edges. `keyword-graphs` is a folder that contains keyword graphs at different time stamps. For example `graph.2017.10.gexf` represents a keyword graph at time stamp year `2017` and month `10`.
